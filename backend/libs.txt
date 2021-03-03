@@ -1,0 +1,7 @@
+django 
+django-cors-headers 
+django-summernote
+djangorestframework
+Pillow
+psycopg2 
+psycopg2-binary
